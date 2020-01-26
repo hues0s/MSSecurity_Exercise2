@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Exercise 2</string>
+
+    <string name="subject_name">Mobile systems security</string>
+    <string name="exercise_number">Exercise 2</string>
+
+    <string name="button_access_message">Access message</string>
+
+    <string name="message">Message</string>
+    <string name="enter_new_message">Enter new message</string>
+    <string name="save_button">Save</string>
+
+
+</resources>
