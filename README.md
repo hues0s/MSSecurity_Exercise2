@@ -1,4 +1,4 @@
-# Mobile Systems Security : Exercise 1
+# Mobile Systems Security : Exercise 2
 Exercise done for the Mobile systems security subject, UAM Poznan.
 
 "Extend exercise 1, so that the program, instead of asking for a password, allows the user to log in using his fingerprint.
